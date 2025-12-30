@@ -10,7 +10,8 @@ Trong Security Profile chọn Properties
 
 Chọn SSH > Chọn Options > Chọn Start and stop manually > Chọn OK
 
-<img width="1601" height="627" alt="image" src="https://github.com/user-attachments/assets/f29b6540-13ce-404f-974b-47832d780c32" />
+<img width="965" height="1030" alt="image" src="https://github.com/user-attachments/assets/3f386602-f817-4768-96cb-3fe33f5479e4" />
+
 
 
 
